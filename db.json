@@ -1,14 +1,21 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
+    "data":
+    {
+
+        "type_conge": "Congé annuel test",
+        "interimaire": "Z Z",
+        "date_debut": "10/10/2024",
+        "heure_debut": "09:15",
+        "date_fin": "20/10/2024",
+        "heure_fin": "18:00",
+        "nombre_jours": "10j",
+        "observation": "conge test observation collab",
+        "manager_statut": "En cours",
+        "manager_date_validation": "N/A",
+        "manager_observation": "Observation test manager",
+        "drh_statut": "En cours",
+        "drh_date_validation": "N/A",
+        "drh_observation": "Aucune"
     }
-  }
+}
+  
